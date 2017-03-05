@@ -1,0 +1,26 @@
+{
+  "index.html": {
+    "resources": [
+      "images/school1.jpg",
+      "images/future.png",
+      "images/can.png",
+      "images/place.png",
+      "images/know.png",
+      "images/star.png",
+      "images/school.jpg",
+      "css/index.css",
+      "images/sign.png",
+      "font/iconfont.woff",
+      "images/city.png",
+      "resources/music.mp3",
+      "images/world.png",
+      "images/move.gif",
+      "js/index.js",
+      "images/53118.png",
+      "images/zhengjiaotong.png",
+      "images/zc511.png",
+      "images/horays.png"
+    ],
+    "refer": []
+  }
+}
