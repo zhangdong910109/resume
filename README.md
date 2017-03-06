@@ -1,2 +1,2 @@
-# resume
-resume
+#前端应用开发工程师个人简历（resume）
+前端个人简历，包含三个版本，webAPP，微信App,混合式APp。分别在三个分支上。
